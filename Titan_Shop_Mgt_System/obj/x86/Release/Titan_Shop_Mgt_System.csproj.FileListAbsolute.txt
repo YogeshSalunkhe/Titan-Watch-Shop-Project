@@ -1,0 +1,17 @@
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\bin\Release\Titan_Shop_Mgt_System.exe
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\bin\Release\Titan_Shop_Mgt_System.pdb
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Release\Titan_Shop_Mgt_System.Properties.Resources.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Release\Titan_Shop_Mgt_System.Splash_Screen_Titan_Shop_App.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Release\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_Category.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Release\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_Employee.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Release\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_New_Customer.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Release\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_New_Model.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Release\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_Supplier.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Release\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_Watch_Stock.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Release\Titan_Shop_Mgt_System.Windows_Forms.frm_Expences_Details.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Release\Titan_Shop_Mgt_System.Windows_Forms.frm_Login_Form.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Release\Titan_Shop_Mgt_System.Windows_Forms.frm_Titan_Shop_MDI.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Release\Titan_Shop_Mgt_System.Windows_Forms.frm_User_Management.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Release\Titan_Shop_Mgt_System.csproj.GenerateResource.Cache
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Release\Titan_Shop_Mgt_System.exe
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Release\Titan_Shop_Mgt_System.pdb

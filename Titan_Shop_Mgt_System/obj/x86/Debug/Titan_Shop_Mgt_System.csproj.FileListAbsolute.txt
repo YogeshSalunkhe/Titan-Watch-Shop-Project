@@ -1,0 +1,88 @@
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\bin\Debug\Titan_Shop_Mgt_System.exe
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\bin\Debug\Titan_Shop_Mgt_System.pdb
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Properties.Resources.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Splash_Screen_Titan_Shop_App.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_Category.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_Employee.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_New_Customer.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_New_Model.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_Supplier.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_Watch_Stock.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Expences_Details.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Login_Form.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Titan_Shop_MDI.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Update_Employee_Details.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Update_Supplier_Details.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Update_Watch_Details.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_User_Management.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_View_Employee_Details.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_View_Expences_Details.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.frm_View_Stock_Details.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_View_Supplier_Details.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_View_Watch_List.resources
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.csproj.GenerateResource.Cache
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.exe
+F:\C#\C# Projects ( FORK 2021)\Titan Shop Project Fork - Ranjit\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.pdb
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.csproj.AssemblyReference.cache
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.exe
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.pdb
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\bin\Debug\Titan_Shop_Mgt_System.exe
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\bin\Debug\Titan_Shop_Mgt_System.pdb
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Properties.Resources.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Splash_Screen_Titan_Shop_App.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_Category.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_Employee.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_New_Customer.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_New_Model.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_Supplier.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_Watch_Stock.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Expences_Details.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Login_Form.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Titan_Shop_MDI.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Update_Employee_Details.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Update_Supplier_Details.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Update_Watch_Details.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_User_Management.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_View_Employee_Details.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_View_Expences_Details.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.frm_View_Stock_Details.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_View_Supplier_Details.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_View_Watch_List.resources
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.csproj.GenerateResource.cache
+C:\Users\91902\OneDrive\Desktop\Project\New-Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.csproj.CoreCompileInputs.cache
+D:\Mini_Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.csproj.AssemblyReference.cache
+D:\Mini_Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Properties.Resources.resources
+D:\Mini_Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Splash_Screen_Titan_Shop_App.resources
+D:\Mini_Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_Category.resources
+D:\Mini_Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_New_Customer.resources
+D:\Mini_Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_New_Model.resources
+D:\Mini_Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_Watch_Stock.resources
+D:\Mini_Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Login_Form.resources
+D:\Mini_Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Titan_Shop_MDI.resources
+D:\Mini_Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Update_Watch_Details.resources
+D:\Mini_Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_User_Management.resources
+D:\Mini_Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.frm_View_Stock_Details.resources
+D:\Mini_Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_View_Watch_List.resources
+D:\Mini_Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.csproj.GenerateResource.cache
+D:\Mini_Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.csproj.CoreCompileInputs.cache
+D:\Mini_Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.exe
+D:\Mini_Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.pdb
+D:\Mini_Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\bin\Debug\Titan_Shop_Mgt_System.exe
+D:\Mini_Project\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\bin\Debug\Titan_Shop_Mgt_System.pdb
+A:\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.csproj.AssemblyReference.cache
+A:\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Properties.Resources.resources
+A:\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Splash_Screen_Titan_Shop_App.resources
+A:\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_Category.resources
+A:\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_New_Customer.resources
+A:\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_New_Model.resources
+A:\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Add_Watch_Stock.resources
+A:\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Login_Form.resources
+A:\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Titan_Shop_MDI.resources
+A:\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_Update_Watch_Details.resources
+A:\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_User_Management.resources
+A:\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.frm_View_Stock_Details.resources
+A:\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.Windows_Forms.frm_View_Watch_List.resources
+A:\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.csproj.GenerateResource.cache
+A:\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.csproj.CoreCompileInputs.cache
+A:\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.exe
+A:\Titan_Shop_Mgt_System\Titan_Shop_Mgt_System\obj\x86\Debug\Titan_Shop_Mgt_System.pdb
